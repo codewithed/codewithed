@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codewithed
+# 👋 Hi, I’m @codewithed
 # About Me:
 🎯   Learning the art of software development<br>🎓   Studying full-stack web development with the odin project <br>💼   Working hard to land my first development job or internship<br>🌱   Learning more about Cloud Architecture, Systems Design, and Artificial Intelligence.<br>✨   Loves creating AI-generated art<br>
 
@@ -18,9 +18,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 
