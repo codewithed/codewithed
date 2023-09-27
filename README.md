@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @codewithed
 # About Me:
-🎯   Learning the art of software development<br>🎓   Studying full-stack web development with the odin project <br>💼   Working hard to land my first development job or internship<br>🌱   Learning more about Cloud Architecture, Systems Design, and Artificial Intelligence.<br>✨   Loves creating AI-generated art<br>
+🎯   Mastering the art of software engineering<br>👨🏾‍💻   Backend development is my passion<br>🌱   Learning more about Cloud Architecture, Systems Design, and Artificial Intelligence.<br>✨   Loves creating AI-generated art<br>
 
 
 ## 🌐 Socials:
