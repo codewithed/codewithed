@@ -1,5 +1,5 @@
 # About Me:
-👨🏾‍💻 Backend-heavy fullstack engineer <br>🎯 Mastering the art of software engineering<br>🌱 Upskilling in Machine Learning, DevOps, and System design<br>✨ Interested in ML, Mechatronics/Robotics, and Computer hardware design 🦾 ( I love engineering in general 😉) 
+👨🏾‍💻 Backend-heavy fullstack engineer <br>🎯 Mastering the art of software engineering<br>🌱 Upskilling in Machine Learning, DevOps, and System design<br>✨ Interested in ML, Mechatronics/Robotics, and Computer hardware design 🦾 
 
 
 ## 🌐 Socials:
